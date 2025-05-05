@@ -5,6 +5,12 @@ Voice-based AI interface for consuming newsletters hands-free. Aggregated repo l
 **Quri** is a full-stack AI-powered voice interface designed for effortless consumption of newsletters. It lets users **listen, take notes, search the web, and interact—all through voice commands**, without touching their screens.
 
 This repository aggregates the core components of Quri, spanning frontend and backend services.
+---
+
+## 🎥 Demo
+
+> ▶️ [Watch the Quri Demo Video](https://youtu.be/VoiCGiHXJsw)  
+Shows real-time voice interaction with newsletters, note-taking, and app navigation.
 
 ---
 
@@ -18,12 +24,6 @@ This repository aggregates the core components of Quri, spanning frontend and ba
 
 ---
 
-## 🎥 Demo
-
-> ▶️ [Watch the Quri Demo Video](https://youtu.be/VoiCGiHXJsw)  
-Shows real-time voice interaction with newsletters, note-taking, and app navigation.
-
----
 
 ## 🚀 Technologies Used
 
