@@ -13,7 +13,7 @@ This repository aggregates the core components of Quri, spanning frontend and ba
 | Module | Description |
 |--------|-------------|
 | [Frontend – Swift iOS App](https://github.com/Vikhyat05/QuriIOS-Frontend) | iOS app built with Swift and SwiftUI, enabling voice-based navigation and interaction |
-| [Backend – Email Processing Service](https://github.com/yourusername/quri-email-backend) | FastAPI service that parses emails, extracts newsletters, and prepares content for AI interaction |
+| [Backend – Email Processing Service](https://github.com/Vikhyat05/QuriEmailProcessing-Backend) | FastAPI service that parses emails, extracts newsletters, and prepares content for AI interaction |
 | [Backend – Real-Time Voice Agent](https://github.com/Vikhyat05/QuriEmailProcessing-Backend) | Handles LLM integration, WebSocket-based communication, and real-time voice response using TTS/STT pipelines | AI Memory Managment 
 
 ---
