@@ -26,7 +26,7 @@ Shows real-time voice interaction with newsletters, note-taking, and app navigat
 ---
 
 
-## 🚀 Technologies Used
+## 🚀 Tech Stack
 
 - **Frontend**: SwiftUI (iOS), Core Data for local persistence and Keychain for secure storage
 - **Backend**: FastAPI (Python), WebSockets (websockets library), WebRTC
