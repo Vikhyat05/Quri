@@ -21,7 +21,7 @@ Shows real-time voice interaction with newsletters, note-taking, and app navigat
 |--------|-------------|
 | [Frontend – Swift iOS App](https://github.com/Vikhyat05/QuriIOS-Frontend) | iOS app built with Swift and SwiftUI, enabling voice-based navigation and interaction |
 | [Backend – Email Processing Service](https://github.com/Vikhyat05/QuriEmailProcessing-Backend) | FastAPI service that parses emails, extracts newsletters, and prepares content for AI interaction |
-| [Backend – Real-Time Voice Agent](https://github.com/Vikhyat05/QuriEmailProcessing-Backend) | Handles LLM integration, WebSocket-based communication, and real-time voice response using TTS/STT pipelines | AI Memory Managment 
+| [Backend – Real-Time Voice Agent](https://github.com/Vikhyat05/QuriVoiceAgent-Backend/tree/main) | Handles LLM integration, WebSocket-based communication, and real-time voice response using TTS/STT pipelines | AI Memory Managment 
 
 ---
 
